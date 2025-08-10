@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Johnny Dorigo Jones. My work currently is studying and constraining the global 21 cm signal using different types of neural networks, and also studying other radio emissions.
-- Below is some code for my current projects and for a class I TA'd for my first year.
-- My previous projects/papers do not have publicly available code repositories released with them as it was not necessary to reproduce the analysis described in each paper, and they were performed using all publicly available Python libraries/softwares.
+- 👋 Hi, I’m Johnny Dorigo Jones. I develop machine learning tools to improve Bayesian inference pipelines for constraining early Universe physics from the global 21 cm cosmological signal
+- My GitHub contains two public repositories for emulators I developed and published, 21cmKAN (Dorigo Jones et al. 2025) and 21cmLSTM (Dorigo Jones et al. 2024), so that anyone can use them and reproduce the results in the papers
 - 📫 Email: johnny.dorigojones@colorado.edu
